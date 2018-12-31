@@ -2,7 +2,6 @@
 
 namespace App\Models;
 
-use App\User;
 use Backpack\Base\app\Notifications\ResetPasswordNotification as ResetPasswordNotification;
 use Tightenco\Parental\HasParentModel;
 
